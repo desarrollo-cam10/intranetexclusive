@@ -1,0 +1,17 @@
+.image-casting-mail{
+	float:left;
+	margin: 5px 5px 5px 5px ;
+}
+#logo-mail-cabecera{
+	width:100%;
+	text-align:center;
+}
+#mail-cliente-casting{
+	width:100%;
+	text-align:left;
+}
+.full-centrada{
+	width:100%;
+	text-align:center;
+	margin:0 auto;
+}

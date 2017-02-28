@@ -1,0 +1,408 @@
+#tabs-wrapper, .pane-title{
+	/*display:none;*/
+}
+
+.pane-content .menu li{
+   list-style:none;
+}
+
+.pane-content .menu {
+     text-align: right;
+}
+
+.views-table td {
+	border-left: solid 1px #fff;
+	border-right: solid 1px #fff;
+}
+
+.tabledrag-toggle-weight, label[for=edit-date-filter-1-min], label[for=edit-date-filter-1-max] , label[for=edit-date-filter-min], label[for=edit-date-filter-max], .entity-profile2 h2 a, .pane-node .pane-title, .form-item-field-estatus-tid .description, #edit-select .fieldset-legend , .field-type-entityreference .profile2-cliente h2, .comment-by-node-author h3, .view-grupo-exclusive .form-required/* .breadcrumb, .views-field .form-required, */ {
+	display:none;
+}
+#edit-field-personajes .form-submit, .view-footer p a{
+	float:right;
+}
+
+#edit-field-direcci-n-und-0-field-provincia-und, #edit-field-fecha-del-evento-und-0-value-datepicker-popup-0, #edit-field-personajes .form-text, #edit-field-personajes #edit-field-observaciones-casting-und-0-value, #field-collection-item-form  .form-text, #edit-field-bookers-und,
+#user-profile-form .form-text,
+#user-profile-form .form-select{
+     width: 440px !important;
+}
+#droppable-profile-artistas-field-galeria-de-imagenes-und-20{
+	width: 100% !important;
+}
+
+.field-multiple-table  .form-submit{
+	float:right;
+}
+
+#edit-field-personajes tbody{
+	border: 1px solid LightGray ;
+}
+
+
+#edit-field-personajes .field-add-more-submit{
+	margin-top:25px;
+}
+
+.entity-profile2 .content, .profile2-personal .content{
+	margin-top: 0px !important;
+	margin-bottom:0px !important;
+}
+
+.field-name-field-observaciones-casting{
+	margin-top: 10px !important;
+}
+
+.quicktabs_main {
+	background-color: white !important;
+	border: 1px solid black !important;
+	/* width: 70% !important; */
+}
+ul.quicktabs-tabs.quicktabs-style-navlist li.active a{ 
+	background-color: white !important; 
+	border: 1px solid black !important; 
+	border-right:none !important;
+    color: black  !important;	
+}
+.vbo-fieldset-select-all{
+	margin-left:250px;
+	clear:both;
+}
+
+#edit-select{
+	margin:0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	float:right;
+	border:none;
+	background:white;
+	clear:both;
+}
+#ctools-jump-menu{
+	float:left;
+}
+#edit-go,#edit-submit--2{
+	width:120px;
+}
+
+#edit-operation, #edit-jump{
+	width:200px;
+}
+
+#edit-field-estatus-tid-wrapper{
+	float:left;
+}
+
+.quicktabs-views-group{
+	background:F3F3F3 !important;
+	border: 1px solid black;
+	padding: 10px 10px 10px 10px;
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-right: 15px;
+	float:left;
+	width: 140px;
+	/*height: 170px;*/
+}
+
+.vbo-fieldset-select-all{    
+    margin:0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;	
+	border:none;
+	background:white;
+	/*float:right !important;*/ 
+}
+
+.views-field-field-nombre-completo{
+   /*float:left;	*/
+   width: 100px;
+}
+
+.form-item.form-type-checkbox{
+  /* float:left;*/
+}
+
+.views-field.views-field-field-foto-de-perfil{
+   clear:both;
+   margin: 0 auto;
+}
+.description{
+ /*display:none;*/
+}
+.view-filters .description,
+
+label[for="edit-field-edad-value-max"],
+label[for="edit-field-edad-en-meses-value-max"],
+label[for="edit-field-fecha-de-tarea-value-1-max"], 
+label[for="edit-field-fecha-de-tarea-value-1-min"],
+label[for="edit-field-fecha-de-pago-value-min"],
+label[for="edit-field-fecha-de-pago-value-max"],
+label[for="edit-field-fecha-vencimiento-value-min"],
+label[for="edit-field-fecha-vencimiento-value-max"],
+label[for="edit-created-max"]{
+	display:none !important; 
+}
+
+.hasDatepicker{
+   width: 180px !important;
+}
+#block-views-tareas-bloque-resumen-tareas{
+	background:#FCCADD;
+	margin-right:10px !important;
+	padding:10px 10px 10px 10px !important;
+	border: 1px solid white;
+}
+.views-row.views-row-1, .views-row.views-row-2, .views-row.views-row-3, .views-row.views-row-4  {
+	/* border-top:1px solid #F35598; */  
+	
+}
+
+#block-views-tareas-bloque-resumen-tareas  h2.title  a{
+	/*color: white !important;*/
+	font-size: 70%;
+}
+
+.portlet-header{
+	background:#FCCADD !important;
+}
+
+.homebox-portlet-inner #views-exposed-form-facturas-tabla-resumen-factura{
+	display:none;
+}
+
+.view-grupo-exclusive  .collapse-processed { display:none;}
+.view-grupo-exclusive .form-select,
+.view-grupo-exclusive .form-text{
+width:180px !important;
+}
+
+.view-grupo-exclusive  select[multiple] {
+    height: 36px;
+}
+
+.view-filters{
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.views-field-field-nombre-completo, .vbo-select{
+float:left;
+} 
+
+.view-display-id-listado_artistas .views-field-field-nombre-completo{
+float:initial;
+}
+
+ul.tabs.primary{
+	/*display: none;*/z
+}
+
+div#cboxContent div#header ,div#cboxContent .breadcrumb{
+   display:none !important;
+}
+
+.contextual-links-wrapper, .contextual-links-processed{
+display:none;
+}
+
+.editablefield-hover-link{
+	position: relative !important;
+    background: yellowgreen;
+}
+ul{ 
+list-style: none;
+}
+
+#edit-comment-body-und-0-format{
+display:none !important;
+}
+
+div[class^="form-item-field-tareas-und-"] { 
+	display:none; 
+}
+
+.form-item-profile-proveedor-field-tareas-und-entities-*-form-status,
+.form-item-field-tareas-und-form-status{
+	display:none;
+}
+
+#edit-profile-cliente-field-direcci-n-und-0-field-ubicacion select{
+	clear:both;
+}
+
+.vbo-views-form{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.form-wrapper#edit-select{
+	margin-bottom:25px;
+	margin-top:25px;
+}
+
+ .droppable-image, .image-widget-data, .dnd-upload-processed  {
+	width: 100%;
+}
+
+.droppable-message{
+	height: 300px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.droppable-message >.droppable-standard-upload > span{
+	display:none; 
+}
+
+.chosen-container-multi .chosen-choices, select, input[type=text]{
+	border-radius: 5px !important; 
+}
+
+.profile2-artistas .field-name-field-nombre-completo{
+	font-size:14px;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+
+.page-profile-artistas-edit ul.tabs.primary{
+	display:none;
+}
+
+#tamano-imagen-personalizada-galeria-imagen{
+	width:100%;
+}
+
+.page-profile-artistas .field-name-field-telefono-movil{
+	color:red;
+	font-weight:bold;
+}
+
+
+.thumbnails-listado {
+    width: 80px !important;
+    height: 110px !important;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+
+.thumbnails-listado img{
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    margin: auto;
+    top: -100px;
+    left: -100px;
+    right: -100px;
+    bottom: -100px;
+}
+
+.view-grupo-exclusive 
+.views-exposed-form
+.views-exposed-widget {
+    height: 70px !important;
+    width: 180px;
+} 
+
+.views-field-nothing-1{
+	width: 80px;
+}
+
+.views-field-field-nombre-completo{
+	white-space: nowrap;
+}
+
+.view-grupo-exclusive .collapse-processed {
+     display: initial;
+}
+
+
+
+div#edit-secondary-wrapper{
+clear:both;
+width:100%;
+}
+
+.cuadro-artista-muestra-padre {
+    width: initial;
+    margin: 15px;
+	float: left;
+}
+
+.cuadro-artista-muestra {
+    width: 250px;
+    height: 300px;
+    background: #eeeeee;
+    box-shadow: 10px 10px 5px #888888;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.cuadro-artista-muestra .nivel1 {
+    float: left;
+    width: 95%;
+    word-wrap: break-word;
+    height: 40px;
+    margin-top: -25px;
+}
+	
+.cuadro-artista-muestra .nivel2 {
+    clear: both;
+    float: left;
+    width: 100%;
+}
+
+.thumbnails-listado {
+    float: left;
+    /*margin-right: 15px;*/
+}
+
+.cuadro-artista-muestra .nivel2 select {
+    width: 100px !important;
+} 
+
+.cuadro-artista-muestra  .nivel3 {
+    clear: both;
+    float: left;
+	margin-top: 10px;
+}
+
+.cuadro-artista-muestra .x-eliminar {
+    float: right;
+    background: red;
+    font-weight: bold;
+    padding: 1px 7px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #888888;
+}
+
+.cuadro-artista-muestra .x-eliminar a:link, 
+.cuadro-artista-muestra .x-eliminar a:visited ,
+.cuadro-artista-muestra .x-eliminar a{
+    color: white;
+}
+
+.cuadro-artista-muestra .nivel1  a:visited,
+.cuadro-artista-muestra .nivel1 a:link,
+.cuadro-artista-muestra .nivel1  a{
+	color: black;
+    font-weight: bold;
+}
+
+.cuadro-artista-muestra .field.field-name-field-comentario.field-type-text.field-label-hidden {
+    color: red;
+    font-weight: bold;
+}
+
+.form-item-field-edad-value-12-max > label,
+.form-item-field-talla-de-pie-value-max > label,
+.form-item-field-altura-cm--value-max > label,
+.form-item-field-edad-value-2-max  > label
+{
+	display:none !important;
+}
+
+#views-form-casting-artistas-asociados-al-personaje-del-casting div#edit-actions{
+	clear: both;
+    padding-top: 25px;
+}
